@@ -1,0 +1,29 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "# Repo for my blackjack game using TDD",
+  "main": "blackJack.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phillywisher/blackjack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Phillywisher/blackjack/issues"
+  },
+  "homepage": "https://github.com/Phillywisher/blackjack#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.26.0",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "require": "^2.4.20"
+  }
+}
