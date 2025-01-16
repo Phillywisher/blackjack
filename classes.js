@@ -91,7 +91,6 @@ class BlackJack {
 
   computerScore() {
     const score = Math.floor(Math.random() * (21 - 18) + 18);
-    console.log(score);
     return score;
   }
 
